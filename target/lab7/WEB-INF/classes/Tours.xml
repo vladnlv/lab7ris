@@ -1,0 +1,33 @@
+<tours>
+    <tour>
+        <destination>Minsk-Gomel</destination>
+        <deptime>9:00</deptime>
+        <arrtime>12:00</arrtime>
+        <cost>19.34</cost>
+    </tour>
+    <tour>
+        <destination>Minsk-Brest</destination>
+        <deptime>11:15</deptime>
+        <arrtime>14:29</arrtime>
+        <cost>15.39</cost>
+    </tour>
+    <tour>
+        <destination>Minsk-Grodno</destination>
+        <deptime>10:12</deptime>
+        <arrtime>13:05</arrtime>
+        <cost>17.18</cost>
+    </tour>
+    <tour>
+        <destination>Minsk-Vitebsk</destination>
+        <deptime>9:34</deptime>
+        <arrtime>12:57</arrtime>
+        <cost>18.27</cost>
+    </tour>
+    <tour>
+        <destination>Minsk-Mogilev</destination>
+        <deptime>9:37</deptime>
+        <arrtime>12:12</arrtime>
+        <cost>16.48</cost>
+    </tour>
+
+</tours>
